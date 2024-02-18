@@ -34,3 +34,11 @@ En las zonas en las que no hay routers que proporcionen Wi-fi se podra implement
 # TO DO
 Formulario de wifi
 Programar encuenta automatica a los dispositivos que se hayan registrado con el correo electronico
+
+# TO DO
+Instalar el Mapa de color:
+  git clone -b sample-layer-heatmap https://github.com/googlemaps/js-samples.git
+  cd js-samples
+  sustituit por los archibos subidos
+  npm i
+  npm start
