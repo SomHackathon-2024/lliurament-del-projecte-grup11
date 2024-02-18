@@ -1,0 +1,883 @@
+[{
+  "_id": {
+    "$oid": "65d1810fb4a1f3c2711b29f5"
+  },
+  "mac_address": "88:f0:31:0f:af:81",
+  "location": {
+    "type": "Point",
+    "coordinates": [
+      -122.084,
+      37.422
+    ]
+  },
+  "connections": [
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:01:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:02:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:03:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:04:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:05:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:06:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:27:49"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:27:49"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:28:18"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:28:18"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:28:18"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:28:18"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:28:18"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:28:18"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:28:18"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:28:18"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:29:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:29:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:29:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:29:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:29:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:29:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:29:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:29:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:30:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:30:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:30:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:30:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:30:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:30:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:30:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:30:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:31:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:31:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:31:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:31:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:31:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:31:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:31:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:31:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:32:18"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:32:18"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:32:18"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:32:18"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:32:18"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:32:18"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:32:18"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:32:18"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:36:41"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:36:49"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:36:49"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:36:49"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:36:59"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:36:59"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:37:18"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:37:18"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:37:18"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:37:18"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:37:18"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:37:18"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:37:18"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:37:18"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:38:18"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:38:18"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:38:18"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:38:18"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:38:18"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:38:18"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:38:18"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:39:18"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:39:18"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:39:18"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:39:18"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:39:18"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:39:18"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:39:18"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:40:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:40:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:40:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:40:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:40:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:40:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:40:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-17 23:41:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-17 23:41:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-17 23:41:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-17 23:41:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-17 23:41:19"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-17 23:41:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-17 23:41:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-17 23:41:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-18 01:59:58"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 01:59:58"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 01:59:58"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 01:59:58"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 01:59:58"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-18 01:59:58"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-18 02:00:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 02:00:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 02:00:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 02:00:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 02:00:19"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-18 02:00:19"
+    },
+    {
+      "mac_address": "04:cf:4b:c7:29:69",
+      "timestamp": "2024-02-18 02:00:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-18 02:00:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "04:cf:4b:c7:29:69",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "8c:8d:28:df:2c:e9",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-18 02:01:18"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "04:cf:4b:c7:29:69",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "8c:8d:28:df:2c:e9",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-18 02:02:19"
+    },
+    {
+      "mac_address": "eth0,",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "a6:dc:d7:96:57:f8",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "04:cf:4b:c7:29:69",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "04:cf:4b:c7:29:69",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "8c:8d:28:df:2c:e9",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "ac:74:b1:67:cd:5c",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "ac:d5:64:8c:78:61",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "00:c0:ca:b1:68:ab",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "b4:f1:da:ef:9a:5d",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "88:f0:31:0f:af:81",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "04:cf:4b:c7:29:69",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "06:b8:9b:61:02:06",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "8c:8d:28:df:2c:e9",
+      "timestamp": "2024-02-18 02:11:14"
+    },
+    {
+      "mac_address": "3c:9c:0f:2b:f4:53",
+      "timestamp": "2024-02-18 02:11:14"
+    }
+  ]
+}]

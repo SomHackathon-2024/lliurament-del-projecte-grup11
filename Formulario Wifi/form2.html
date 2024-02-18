@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de inicio de sesión con MongoDB</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <style>
+        #formulario {
+            display: none;
+        }
+
+        #formulario.mostrar {
+            display: block;
+        }
+
+        .centrado {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .boton-si,
+        .boton-no {
+            display: flex;
+            justify-content: space-evenly;
+            flex-direction: row;
+            align-items: center;
+            width: 30%;
+            margin: 0.3em;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container mt-5 animate__animated animate__fadeInDown">
+        <div class="row justify-content-center">
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 id="titulo" class="card-title text-center">Hola,</h5>
+                        <form id="formulario" action="javascript:void(0)">
+                            <div class="mb-3">
+                                <label for="nombre" class="form-label">Motivo de la visita</label>
+                                <input type="text" class="form-control" id="nombre" name="nombre"
+                                    placeholder="Escribe el motivo de tu visita">
+                            </div>
+                            <div class="mb-3">
+                                <label for="edad" class="form-label">Edad</label>
+                                <input type="text" class="form-control" id="edad" name="edad"
+                                    placeholder="Escribe tu edad">
+                            </div>
+                            <div class="mb-3">
+                                <label for="duracion" class="form-label">Duración de la estancia</label>
+                                <input type="text" class="form-control" id="duracion" name="duracion"
+                                    placeholder="Escribe la duración de tu estancia">
+                            </div>
+                            <div class="mb-3">
+                                <label for="situacion" class="form-label">Situación laboral</label>
+                                <select class="form-select" id="situacion" name="situacion">
+                                    <option value="desempleado">Desempleado</option>
+                                    <option value="con_trabajo">Con trabajo</option>
+                                    <option value="jubilado">Jubilado</option>
+                                    <option value="estudiante">Estudiante</option>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label for="alojamiento" class="form-label">¿Cómo te alojas?</label>
+                                <input type="text" class="form-control" id="alojamiento" name="alojamiento"
+                                    placeholder="Escribe cómo te alojas">
+                            </div>
+                            <button type="submit" class="btn btn-primary">Enviar</button>
+                        </form>
+                        <p id="texto" class="text-center">¿Deseas hacer una encuesta para la oficina de turismo de Mataró?</p>
+                        <div class="centrado">
+                            <button id="mostrarFormulario" class="btn btn-success boton-si" onclick="mostrarFormulario()">Sí</button>
+                            <button id="cerrar" class="btn btn-danger boton-no" onclick="cerrarPagina()">No</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script>
+        // Función para mostrar el formulario
+        function mostrarFormulario() {
+            document.getElementById("formulario").classList.add("mostrar");
+            document.getElementById("mostrarFormulario").style.display = "none";
+            document.getElementById("cerrar").style.display = "none";
+            document.getElementById("texto").style.display = "none";
+        }
+
+        // Función para cerrar la página
+        function cerrarPagina() {
+            window.close();
+        }
+
+        // Obtener el valor del campo de nombre y actualizar el título
+        document.getElementById('formulario').addEventListener('submit', function (event) {
+            event.preventDefault();
+            const nombre = document.getElementById('nombre').value;
+            document.getElementById('titulo').textContent = `Hola, ${nombre}`;
+        });
+
+    </script>
+</body>
+
+</html>
